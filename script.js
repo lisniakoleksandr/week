@@ -14,6 +14,7 @@
 
  };
 
+console.log(week[3]);
 var day  = prompt ('enter the day number','' );
 alert(week[day])
 
